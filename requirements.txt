@@ -1,0 +1,2 @@
+# python=3.10
+selenium==4.16.0

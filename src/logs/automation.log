@@ -1,0 +1,71 @@
+2024-01-26 14:48:49,438 - DEBUG: Read the meeting url from txt file. Url is https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NDAxOWIzMTMtYzFkZi00NzBmLWExOWUtZWZhMzBlODhiMTAz%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252284c31ca0-ac3b-4eae-ad11-519d80233e6f%2522%252c%2522Oid%2522%253a%252208f45311-74b9-47ea-a9c9-a5b147d432d1%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=d8867bcf-6563-499a-a010-479be5621e7a&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true
+2024-01-26 14:48:49,439 - DEBUG: Original meeting url is https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NDAxOWIzMTMtYzFkZi00NzBmLWExOWUtZWZhMzBlODhiMTAz%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252284c31ca0-ac3b-4eae-ad11-519d80233e6f%2522%252c%2522Oid%2522%253a%252208f45311-74b9-47ea-a9c9-a5b147d432d1%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=d8867bcf-6563-499a-a010-479be5621e7a&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true
+2024-01-26 14:48:49,440 - DEBUG: New meeting url generated is https://teams.microsoft.com/v2/?meetingjoin=true#/l/meetup-join/19:meeting_NDAxOWIzMTMtYzFkZi00NzBmLWExOWUtZWZhMzBlODhiMTAz@thread.v2/0?context=%7b%22Tid%22%3a%2284c31ca0-ac3b-4eae-ad11-519d80233e6f%22%2c%22Oid%22%3a%2208f45311-74b9-47ea-a9c9-a5b147d432d1%22%7d&anon=true&type=meetup-join&deeplinkId=d8867bcf-6563-499a-a010-479be5621e7a&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true
+2024-01-26 14:48:49,441 - DEBUG: Read and found 8 total users in username file.
+2024-01-26 14:48:49,441 - DEBUG: Read the meeting exit time. It is 5
+2024-01-26 14:48:49,441 - DEBUG: Max number to workers are 2
+2024-01-26 14:48:49,442 - DEBUG: starting chrome driver for user -- amit
+2024-01-26 14:48:49,443 - DEBUG: starting chrome driver for user -- amit1
+2024-01-26 14:48:51,291 - DEBUG: Chrome driver is running for user -- amit
+2024-01-26 14:48:51,299 - DEBUG: Chrome driver is running for user -- amit1
+2024-01-26 14:48:54,245 - DEBUG: Waiting for meeting url to load for user -- amit1
+2024-01-26 14:48:54,432 - DEBUG: Waiting for meeting url to load for user -- amit
+2024-01-26 14:49:02,515 - DEBUG: Meeting page is loaded for user -- amit1
+2024-01-26 14:49:03,109 - DEBUG: Entered Guest username for -- amit1
+2024-01-26 14:49:03,387 - DEBUG: Disabling Mic and camera befor meeting join for user -- amit1
+2024-01-26 14:49:04,650 - DEBUG: Meeting page is loaded for user -- amit
+2024-01-26 14:49:04,778 - DEBUG: Entered Guest username for -- amit
+2024-01-26 14:49:04,830 - DEBUG: Disabling Mic and camera befor meeting join for user -- amit
+2024-01-26 14:49:07,259 - INFO: User amit1 is joining the meeting..
+2024-01-26 14:49:07,945 - INFO: User amit1 has successfully joined the meeting..
+2024-01-26 14:49:07,946 - DEBUG: starting chrome driver for user -- amit2
+2024-01-26 14:49:08,044 - INFO: User amit is joining the meeting..
+2024-01-26 14:49:08,900 - INFO: User amit has successfully joined the meeting..
+2024-01-26 14:49:08,900 - DEBUG: starting chrome driver for user -- amit3
+2024-01-26 14:49:11,879 - DEBUG: Chrome driver is running for user -- amit2
+2024-01-26 14:49:13,760 - DEBUG: Chrome driver is running for user -- amit3
+2024-01-26 14:49:16,250 - DEBUG: Waiting for meeting url to load for user -- amit2
+2024-01-26 14:49:17,283 - DEBUG: Waiting for meeting url to load for user -- amit3
+2024-01-26 14:49:28,877 - DEBUG: Meeting page is loaded for user -- amit3
+2024-01-26 14:49:29,080 - DEBUG: Entered Guest username for -- amit3
+2024-01-26 14:49:29,244 - DEBUG: Disabling Mic and camera befor meeting join for user -- amit3
+2024-01-26 14:49:29,610 - DEBUG: Meeting page is loaded for user -- amit2
+2024-01-26 14:49:29,718 - DEBUG: Entered Guest username for -- amit2
+2024-01-26 14:49:29,773 - DEBUG: Disabling Mic and camera befor meeting join for user -- amit2
+2024-01-26 14:49:32,424 - INFO: User amit3 is joining the meeting..
+2024-01-26 14:49:32,767 - INFO: User amit3 has successfully joined the meeting..
+2024-01-26 14:49:32,767 - DEBUG: starting chrome driver for user -- amit4
+2024-01-26 14:49:32,987 - INFO: User amit2 is joining the meeting..
+2024-01-26 14:49:33,320 - INFO: User amit2 has successfully joined the meeting..
+2024-01-26 14:49:33,321 - DEBUG: starting chrome driver for user -- amit5
+2024-01-26 14:49:35,777 - DEBUG: Chrome driver is running for user -- amit4
+2024-01-26 14:49:35,822 - DEBUG: Chrome driver is running for user -- amit5
+2024-01-26 14:49:38,959 - DEBUG: Waiting for meeting url to load for user -- amit5
+2024-01-26 14:49:41,493 - DEBUG: Waiting for meeting url to load for user -- amit4
+2024-01-26 14:49:51,446 - DEBUG: Meeting page is loaded for user -- amit5
+2024-01-26 14:49:51,626 - DEBUG: Entered Guest username for -- amit5
+2024-01-26 14:49:51,700 - DEBUG: Disabling Mic and camera befor meeting join for user -- amit5
+2024-01-26 14:49:54,929 - INFO: User amit5 is joining the meeting..
+2024-01-26 14:49:55,630 - INFO: User amit5 has successfully joined the meeting..
+2024-01-26 14:49:55,630 - DEBUG: starting chrome driver for user -- amit6
+2024-01-26 14:49:56,310 - DEBUG: Meeting page is loaded for user -- amit4
+2024-01-26 14:49:56,490 - DEBUG: Entered Guest username for -- amit4
+2024-01-26 14:49:56,559 - DEBUG: Disabling Mic and camera befor meeting join for user -- amit4
+2024-01-26 14:49:59,001 - DEBUG: Chrome driver is running for user -- amit6
+2024-01-26 14:49:59,757 - INFO: User amit4 is joining the meeting..
+2024-01-26 14:50:00,218 - INFO: User amit4 has successfully joined the meeting..
+2024-01-26 14:50:00,218 - DEBUG: starting chrome driver for user -- amit7
+2024-01-26 14:50:01,425 - DEBUG: Waiting for meeting url to load for user -- amit6
+2024-01-26 14:50:03,604 - DEBUG: Chrome driver is running for user -- amit7
+2024-01-26 14:50:07,999 - DEBUG: Waiting for meeting url to load for user -- amit7
+2024-01-26 14:50:12,041 - DEBUG: Meeting page is loaded for user -- amit6
+2024-01-26 14:50:12,385 - DEBUG: Entered Guest username for -- amit6
+2024-01-26 14:50:12,450 - DEBUG: Disabling Mic and camera befor meeting join for user -- amit6
+2024-01-26 14:50:15,634 - INFO: User amit6 is joining the meeting..
+2024-01-26 14:50:15,920 - INFO: User amit6 has successfully joined the meeting..
+2024-01-26 14:50:24,238 - DEBUG: Meeting page is loaded for user -- amit7
+2024-01-26 14:50:24,872 - DEBUG: Entered Guest username for -- amit7
+2024-01-26 14:50:24,969 - DEBUG: Disabling Mic and camera befor meeting join for user -- amit7
+2024-01-26 14:50:28,204 - INFO: User amit7 is joining the meeting..
+2024-01-26 14:50:28,488 - INFO: User amit7 has successfully joined the meeting..
+2024-01-26 14:50:28,489 - INFO: Waiting for 5 minutes to close the browsers..
